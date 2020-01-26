@@ -1,0 +1,117 @@
+@media screen and (min-width:395px){
+.hero-banner-img{
+  position: relative;
+  top:105px;
+  height: 100%;
+  background-image: url("images/image-intro-desktop.jpg");
+  margin-bottom: 215px;
+}
+.container-fluid{
+  padding: 0 160px;
+  }
+}
+
+.view-plans{
+  margin-top: 27px;
+}
+.title-content h1{
+  font-size:4rem !important;
+  padding-right: 25px;
+  /* font-weight:700; */
+}
+.second-title-content{
+  padding-top: 420px;
+  height: auto;
+  text-align: left;
+}
+.title-content{
+  padding-top: 170px;
+  height: auto;
+  text-align: left;
+}
+.title-content p{
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+  ul{
+  margin-right: 10.625rem;
+}
+.nav-list{
+  margin: 0 25px;
+  padding: .375rem 0 0 0;
+  vertical-align:middle;
+  text-align: center;
+}
+.logo{
+  margin: 12px 0 12px 10.375rem  ;
+}
+/* - Grayish Blue: hsl(216, 30%, 68%) */
+
+body{
+  font-family: 'Karla', sans-serif !important;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: 'DM Serif Display', serif;
+
+}
+.hero-banner{
+  background-color:  hsl(256, 26%, 20%);
+  color: #fff;
+}
+/* section-2 */
+.different{
+  text-align: left;
+}
+.card-deck{
+  margin: 90px 0 155px ;
+}
+.card-image{
+  margin-bottom: 30px;
+}
+.card-title{
+  margin-bottom: 20px;
+}
+.find-out{
+  background-color:  hsl(256, 26%, 20%);
+  color: #fff;
+  padding: 100px 0;
+}
+.find-out-title h1{
+    font-size: 3rem;
+    padding: 0 0 0 30px;
+}
+.find-out-button{
+  margin-top: 105px;
+}
+@media (min-width:1030px) {
+
+  .find-out-title h1{
+      padding-right: 275px;
+  }
+
+}
+
+footer{
+  padding-top: 65px;
+  background-color: hsl(0, 0%, 98%);
+  margin-top: 150px;
+}
+footer ul{
+  list-style: none;
+  margin: 40px 0 ;
+  font-weight: 800;
+
+}
+.custom-button{
+  border: 1px solid #fff;
+  background-color: transparent;
+  color: #fff;
+}
+.list-heading{
+  margin-bottom: 30px;
+  color: grey;
+}
+.list-member{
+  margin-bottom: 15px;
+}
